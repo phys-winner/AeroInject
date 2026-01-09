@@ -1,0 +1,19 @@
+# MSVC build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# VS Code / IDE settings
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Git ignore itself? No.
+# Temporary files
+*.log
