@@ -48,6 +48,11 @@ This project uses the MSVC compiler.
 - [ ] Improve detection for already launched instances.
 - [ ] Add compatibility with Mono injection.
 
+## Contributors
+
+- **Eugene** ([phys-winner](https://github.com/phys-winner)) - Lead Developer
+- **Antigravity** (AI Assistant) - Architecture and Documentation
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
