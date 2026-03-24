@@ -47,6 +47,7 @@ This project uses the MSVC compiler.
 - [ ] Improve x64 injection stability.
 - [ ] Improve detection for already launched instances.
 - [ ] Add compatibility with Mono injection.
+- [ ] **Stealth Manual Mapping**: Add support for manual mapping to bypass loader hooks and improve stealth.
 
 ## Contributors
 
